@@ -4,7 +4,7 @@ NATS Streaming monitoring and dumping tool
 
 ## Docker
 
-https://cloud.docker.com/repository/docker/vasyahuyasa/stantools
+https://hub.docker.com/r/vasyahuyasa/stantools
 
 ## Usage
 
